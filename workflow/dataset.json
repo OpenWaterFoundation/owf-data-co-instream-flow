@@ -1,0 +1,26 @@
+{
+  "title": "Colorado Instream Flow",
+  "description": "Colorado instream flow reaches, termini, and natural lakes.",
+  "identifier": "owf-data-co-instream-flow",
+  "landingPage": "https://data.openwaterfoundation.org/state/co/cwcb/instream-flow/",
+  "issued": "2022-07-28",
+  "keyword": [
+    "line",
+    "instream flow reaches",
+    "instream flow termini",
+    "natural lake levels"
+  ],
+  "publisher": {
+    "name": "Open Water Foundation",
+    "mbox": "info@openwaterfoundation.org"
+  },
+  "distribution": [
+    {
+      "accessURL": "",
+      "byteSize": null,
+      "description": "Resource locator",
+      "format": "application/geo+json",
+      "title": "Colorado Instream Flow"
+    }
+  ]
+}
