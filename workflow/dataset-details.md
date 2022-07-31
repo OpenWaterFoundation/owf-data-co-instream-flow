@@ -1,6 +1,6 @@
 ## Overview ##
 
-This dataset contains GeoJSON feature layers for Colorado instream flow reaches and termini, and natural lake levels.
+This dataset contains GeoJSON feature layers for Colorado instream flow reaches (lines) and termini (points), and natural lakes (points).
 The files are generated from instream flow layers from
 [Colorado's Decision Support Systems](https://cdss.colorado.gov/gis-data/gis-data-by-category)
 for geographic areas that are typically used in analysis and visualizations.
@@ -11,9 +11,21 @@ The following files can be downloaded or used directly.
 
 | **Layer File** | **Description** |
 | -- | -- |
-| [`co-instream-flow-reaches.geojson`](co-instream-flow-reaches.geojson) | Colorado instream flow reaches (entire state). |
-| [`co-instream-flow-reache-termini.geojson`](co-instream-flow-reach-termini.geojson) | Colorado instream flow reach termini (entire state). |
-| [`co-natural-lake-levels.geojson`](co-natural-lake-levels.geojson) | Colorado natural lake levels (entire state). |
+| [`co-isf-reaches.geojson`](co-instream-flow-reaches.geojson) | Colorado instream flow reaches (entire state). |
+| [`co-isf-reaches-division1.geojson`](co-instream-flow-reaches-division1.geojson) | Colorado instream flow reaches (Division 1). |
+| [`co-isf-reaches-division2.geojson`](co-instream-flow-reaches-division2.geojson) | Colorado instream flow reaches (Division 2). |
+| [`co-isf-reaches-division3.geojson`](co-instream-flow-reaches-division3.geojson) | Colorado instream flow reaches (Division 3). |
+| [`co-isf-reaches-division4.geojson`](co-instream-flow-reaches-division4.geojson) | Colorado instream flow reaches (Division 4). |
+| [`co-isf-reaches-division5.geojson`](co-instream-flow-reaches-division5.geojson) | Colorado instream flow reaches (Division 5). |
+| [`co-isf-reaches-division6.geojson`](co-instream-flow-reaches-division6.geojson) | Colorado instream flow reaches (Division 6). |
+| [`co-isf-reaches-division7.geojson`](co-instream-flow-reaches-division7.geojson) | Colorado instream flow reaches (Division 7). |
+| [`co-isf-reaches-district3.geojson`](co-instream-flow-reaches-district3.geojson) | Colorado instream flow reaches (District 3). |
+| [`co-isf-reach-termini.geojson`](co-instream-flow-reach-termini.geojson) | Colorado instream flow reach termini (entire state). |
+| [`co-isf-reach-termini-division1.geojson`](co-instream-flow-reach-termini-division1.geojson) | Colorado instream flow reach termini (Division 1). |
+| [`co-isf-reach-termini-district3.geojson`](co-instream-flow-reach-termini-district3.geojson) | Colorado instream flow reach termini (District 3). |
+| [`co-natural-lakes.geojson`](co-natural-lakes.geojson) | Colorado natural lake levels (entire state). |
+| [`co-natural-lakes-division1.geojson`](co-natural-lakes-division1.geojson) | Colorado natural lake levels (Division 1). |
+| [`co-natural-lakes-district3.geojson`](co-natural-lakes-district3.geojson) | Colorado natural lake levels (District 3). |
 
 ## Workflow ##
 
