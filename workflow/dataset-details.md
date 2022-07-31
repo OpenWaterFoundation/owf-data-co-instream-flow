@@ -11,7 +11,7 @@ The following files can be downloaded or used directly.
 
 | **Layer File** | **Description** |
 | -- | -- |
-| [`co-isf-reaches.geojson`](co-isf-flow-reaches.geojson) | Colorado instream flow reaches (entire state). |
+| [`co-isf-reaches.geojson`](co-isf-reaches.geojson) | Colorado instream flow reaches (entire state). |
 | [`co-isf-reaches-division1.geojson`](co-isf-reaches-division1.geojson) | Colorado instream flow reaches (Division 1). |
 | [`co-isf-reaches-division2.geojson`](co-isf-reaches-division2.geojson) | Colorado instream flow reaches (Division 2). |
 | [`co-isf-reaches-division3.geojson`](co-isf-reaches-division3.geojson) | Colorado instream flow reaches (Division 3). |
